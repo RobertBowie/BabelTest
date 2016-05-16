@@ -1,0 +1,22 @@
+{
+  "name": "babeltest",
+  "version": "1.0.0",
+  "devDependencies": {
+    "babel-cli": "^6.0.0"
+  },
+  "description": "Testing out Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertBowie/BabelTest.git"
+  },
+  "author": "Robert Bowie <robertb1903@gmail.com> (https://github.com/RobertBowie)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertBowie/BabelTest/issues"
+  },
+  "homepage": "https://github.com/RobertBowie/BabelTest#readme"
+}
